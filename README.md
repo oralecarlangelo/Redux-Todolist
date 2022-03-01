@@ -7,7 +7,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ReactJs](https://reactjs.org/)
 - [Redux Toolkit](https://redux-toolkit.js.org/)
 - [Redux](https://redux.js.org/)
-- [React Date Picker](https://reactdatepicker.com/)
 - [DayJs](https://day.js.org/)
 - [Tailwind Css](https://tailwindcss.com/)
 
